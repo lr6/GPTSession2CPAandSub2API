@@ -4,7 +4,7 @@
 
 ## 在线使用
 
-### [**》》 点我直接使用 《《**](https://gtxx3600.github.io/GPTSession2CPAandSub2API/)
+### [**》》 点我直接使用 《《**](https://convert.1475369.xyz/)
 
 ## 使用提示
 
@@ -15,13 +15,6 @@ OpenAI 已限制直接使用 ChatGPT Web 登录 session 转换后导入来跳过
 你仍然可以把已有的 ChatGPT Web session、9router OAuth JSON、Codex `auth.json`、AxonHub auth.json 或 Codex-Manager JSON 转换成其它受支持格式，但转换结果是否能被目标工具成功使用，取决于 OpenAI 和目标工具当前的认证限制、账号权限以及 token 是否仍然有效。
 
 ChatGPT Web session 通常不包含 OAuth 文件里常见的 `refresh_token`，因此 access token 过期后不能自动刷新。Free 账号即使转换了，也可能没有权限调用需要付费账号权限的模型或功能。
-
-## GOAPY 拉闸了， Party is OVER ～ 
-## **加入 Discord 频道免费获取 GPT 撸羊毛信息：**
-
-### [**》》 加入 Discord 频道 《《**](https://discord.gg/GFmHY2TZNy)
-
-邀请链接：`https://discord.gg/GFmHY2TZNy`
 
 
 ## 支持输入
